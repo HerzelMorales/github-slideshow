@@ -2,5 +2,5 @@
 Layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Eats spicy deliciousness like a boss.
 Use the left arrow to go back!
